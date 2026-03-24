@@ -1,5 +1,3 @@
-link-api
-
 REST API built with FastAPI and SQLite. CRUD endpoints for managing links with click tracking.
 
 A REST API I built from scratch using FastAPI and SQLite. It's basically the backend for a Linktree style app. You can store, manage, and track clicks on your personal links through a clean API.
